@@ -1,7 +1,7 @@
 # steamlit-chatbot
 基于steamlit、langchain的AI对话机器人，目前仍在 beta 阶段，仅供学习。
 
-![](简介.gif)
+![image]([简介.gif](https://github.com/luzhengli/steamlit-chatbot/blob/fcc8caaaf077b99871d7c1b3328ec45d7aa30b94/%E7%AE%80%E4%BB%8B.gif))
 
 # features
 - [x] 支持基于本地文档的检索增强生成（RAG）
