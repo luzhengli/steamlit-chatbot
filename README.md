@@ -1,5 +1,5 @@
 # steamlit-chatbot
-基于steamlit、langchain的AI对话机器人，目前仍在 beta 阶段，仅供个人学习。
+基于steamlit、langchain的AI对话机器人，目前仍在 beta 阶段，仅供学习。
 
 # features
 - [x] 支持基于本地文档的检索增强生成（RAG）
