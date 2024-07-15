@@ -1,5 +1,7 @@
 # steamlit-chatbot
 基于steamlit、langchain的AI对话机器人，目前仍在 beta 阶段，仅供学习。
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/3ddce923-2919-46bd-9912-28528be2b974">
+
 
 
 # features
